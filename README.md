@@ -89,3 +89,4 @@ https://github.com/Hemanthsai2003/Human-Disease-Prediction-project/blob/master/i
 https://github.com/Hemanthsai2003/Human-Disease-Prediction-project/blob/master/images/image2.jpg?raw=true
 https://github.com/Hemanthsai2003/Human-Disease-Prediction-project/blob/master/images/image3.jpg?raw=true
 https://github.com/Hemanthsai2003/Human-Disease-Prediction-project/blob/master/images/image4.jpg?raw=true
+https://github.com/Hemanthsai2003/Human-Disease-Prediction-project/blob/master/images/image5.jpg?raw=true
