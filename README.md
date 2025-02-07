@@ -86,3 +86,4 @@ For any queries, contact Devika Sanjay Jonjale at [your-email@example.com](mailt
 
 Result snaps
 https://github.com/Hemanthsai2003/Human-Disease-Prediction-project/blob/master/images/image1.jpg?raw=true
+https://github.com/Hemanthsai2003/Human-Disease-Prediction-project/blob/master/images/image2.jpg?raw=true
