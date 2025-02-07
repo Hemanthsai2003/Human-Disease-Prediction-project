@@ -84,4 +84,5 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 Contact
 For any queries, contact Devika Sanjay Jonjale at [your-email@example.com](mailto:your-email@example.com).
 
-
+Result snaps
+https://github.com/Hemanthsai2003/Human-Disease-Prediction-project/blob/master/images/image1.jpg?raw=true
